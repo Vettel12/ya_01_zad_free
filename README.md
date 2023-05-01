@@ -176,4 +176,3 @@ tests/test_homework.py::TestCashCalculator::test_get_today_cash_remained[-1-rub]
 
 Курс валют укажите константами USD_RATE и EURO_RATE, прямо в теле класса CashCalculator. Какой курс вы укажете — не так важно, выберите любой, похожий на правду. Значения обменного курса можно посмотреть, например, на главной странице Яндекса https://yandex.ru
 
-Автор: [Дмитрий Клепиков](https://github.com/themasterid) :+1:
