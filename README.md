@@ -35,13 +35,7 @@
 Клонируем проект:
 
 ```bash
-git clone https://github.com/themasterid/hw_python_oop.git
-```
-
-или
-
-```bash
-git clone git@github.com:themasterid/hw_python_oop.git
+git clone https://github.com/Vettel12/ya_01_zad_free
 ```
 
 Переходим в папку с проектом:
